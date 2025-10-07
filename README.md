@@ -7,13 +7,11 @@ Each player takes turns rolling a dice and tries to reach **100 points** before 
 ---
 
 ## 🕹️ How the Game Works
-- There are **two players** who take turns.
-- When a player **rolls the dice**:
-  - If the result is **2–6**, the number is added to their current round score.
-  - If the result is **1**, the player loses their current round score and the turn switches to the other player.
-- The player can choose to **"Hold"** to save their points to the total score.
+- Two players take turns rolling a six-sided dice.  
+- If the player rolls any number **from 2 to 6**, the score is added to their current round total.  
+- If the player rolls a **1**, they lose all points from the current round and it becomes the other player’s turn.  
+- Players can choose to **“Hold”** at any time to save their accumulated points to their total score.  
 - The first player to reach **100 points** wins the game.
-- A **"New Game"** button allows restarting the match.
 
 ---
 
@@ -25,12 +23,14 @@ Each player takes turns rolling a dice and tries to reach **100 points** before 
 ---
 
 ## 🧩 Features
-- 🎯 Real-time score updates  
-- 🎲 Random dice roll animation  
-- 🔄 Automatic player switching  
-- 🏁 Win detection and reset function  
+- Dynamic dice roll animation  
+- Switching between active players automatically  
+- Real-time score updates  
+- Restart/New Game button 
 
 ---
 
 ## 🚀 How to Run
 1. Download or clone the repository  
+2. Open `index.html` in your browser  
+3. Start playing!
